@@ -38,8 +38,8 @@
     },
     "Date": {
         "WeekDay": {
-            "X": 69,
-            "Y": 11,
+            "X": 68,
+            "Y": 12,
             "ImageIndex": 23,
             "ImagesCount": 7
         },
@@ -93,6 +93,16 @@
     },
     "Activity": {
         "Steps": {
+            "TopLeftX": 13,
+            "TopLeftY": 121,
+            "BottomRightX": 70,
+            "BottomRightY": 135,
+            "Alignment": "TopLeft",
+            "Spacing": 2,
+            "ImageIndex": 11,
+            "ImagesCount": 10
+        },
+        "Pulse": {
             "TopLeftX": 75,
             "TopLeftY": 121,
             "BottomRightX": 122,
@@ -101,20 +111,6 @@
             "Spacing": 2,
             "ImageIndex": 11,
             "ImagesCount": 10
-        },
-        "Distance": {
-            "Number": {
-                "TopLeftX": 8,
-                "TopLeftY": 121,
-                "BottomRightX": 70,
-                "BottomRightY": 135,
-                "Alignment": "TopRight",
-                "Spacing": 2,
-                "ImageIndex": 11,
-                "ImagesCount": 10
-            },
-            "SuffixImageIndex": 21,
-            "DecimalPointImageIndex": 22
         }
     },
     "Weather": {
