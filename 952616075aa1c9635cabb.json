@@ -66,24 +66,21 @@
                 "X": 49,
                 "Y": 147
             },
-            "ImageIndexOn": 75,
-            "ImageIndexOff": 74
+            "ImageIndexOn": 75
         },
         "Bluetooth": {
             "Coordinates": {
                 "X": 88,
                 "Y": 147
             },
-            "ImageIndexOn": 71,
-            "ImageIndexOff": 70
+            "ImageIndexOn": 71
         },
         "Lock": {
             "Coordinates": {
                 "X": 69,
                 "Y": 147
             },
-            "ImageIndexOn": 73,
-            "ImageIndexOff": 72
+            "ImageIndexOff": 73
         }
     },
     "Battery": {
