@@ -38,7 +38,6 @@
     },
     "Date": {
         "WeekDay": {
-            "X": 69,
             "X": 68,
             "Y": 12,
             "ImageIndex": 23,
@@ -94,20 +93,20 @@
     },
     "Activity": {
         "Steps": {
-            "TopLeftX": 13,
-            "TopLeftY": 121,
-            "BottomRightX": 70,
-            "BottomRightY": 135,
+            "TopLeftX": 15,
+            "TopLeftY": 119,
+            "BottomRightX": 62,
+            "BottomRightY": 133,
             "Alignment": "TopLeft",
             "Spacing": 2,
             "ImageIndex": 11,
             "ImagesCount": 10
         },
         "Pulse": {
-            "TopLeftX": 75,
-            "TopLeftY": 121,
-            "BottomRightX": 122,
-            "BottomRightY": 135,
+            "TopLeftX": 72,
+            "TopLeftY": 119,
+            "BottomRightX": 99,
+            "BottomRightY": 133,
             "Alignment": "TopRight",
             "Spacing": 2,
             "ImageIndex": 11,
@@ -146,7 +145,7 @@
                 "Number": {
                     "TopLeftX": 79,
                     "TopLeftY": 34,
-                    "BottomRightX": 114,
+                    "BottomRightX": 115,
                     "BottomRightY": 48,
                     "Alignment": "TopCenter",
                     "Spacing": 2,
