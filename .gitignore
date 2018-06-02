@@ -84,3 +84,9 @@ fabric.properties
 /bart_hr_packed.log
 /Thumbs.db:encryptable
 /Thumbs.db
+.idea/bart.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
